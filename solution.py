@@ -1,4 +1,4 @@
-## setup
+## author Neel Gandhi
 assignments = []
 
 rows = 'ABCDEFGHI'
