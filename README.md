@@ -31,3 +31,5 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 * `PySudoku.py` - Do not modify this. This is code for visualizing your solution.
 * `visualize.py` - Do not modify this. This is code for visualizing your solution.
 * `great_solution.py` - Same as solution, but the code was separated in three files.
+
+#git clone:-https://github.com/neelgandhi108/AI_sudoku_solver.git
